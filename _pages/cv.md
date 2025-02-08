@@ -11,54 +11,68 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Virginia Polytechnic Institute and State University**  
+  * B.S. in Computer Engineering, Networking and Cybersecurity  
+  * GPA: 3.51  
+  * Dean’s List: 1st, 2nd, 4th, 5th semester  
+  * Relevant Coursework:  
+    * Data Structures and Algorithms (C++)  
+    * Embedded Systems (C)  
+    * Applied Software Design (C++)  
+    * Circuits, Signals and Systems  
+    * Computer Architecture  
+    * Computer Networking  
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Summer 2025: Cybersecurity Associate Intern**  
+  * General Dynamics Information Technology  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Summer 2024: Embedded Engineering Intern**  
+  * Cubic Corporation  
+  * Programmed NXP microprocessor for an in-house UPS board embedded system  
+  * Debugged and tested hardware/software issues  
+  * Developed new protocols and modules (ADC, SPI, I2C)  
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* **2020 - 2023: Business Owner**  
+  * Jet-Tek PCs  
+  * Built, refurbished, and sold custom PCs and parts  
+  * Provided mobile tech support and consulting  
+  * Achieved over $90,000 in revenue and became a Verified Seller on Jawa.gg  
+
+* **2019 - 2021: Operations Team Manager**  
+  * Langley Swim and Tennis Club  
+  * Managed a team of 20+ employees for maintenance and project management  
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming Languages:**  
+  * C++, C, Verilog  
 
-Publications
+* **Development Environments:**  
+  * Visual Studio, Code Composer Studio, MCUXpresso, Arduino, Intel Quartus Prime  
+
+* **Technical Skills:**  
+  * Git, WSL (Linux), Wireshark, Microcontroller Programming  
+  * Analog Circuits, LTSpice, MATLAB, CAD  
+  * Computer Building/Refurbishing, 3D Printing, Video Editing  
+  * Microsoft Office Suite  
+
+Projects
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* **UPS Board System** (Embedded C/C++, MCUXpresso)  
+  * Programmed an LPC4370 MCU and improved ADC sampling by 80x  
+  * Collaborated with FPGA/hardware team to resolve board design issues  
+
+* **Integrated Design Project – Home Audio** (LTSpice, C++, Arduino)  
+  * Designed analog circuits (3-band BPF equalizer, Class-D Amplifier)  
+  * Developed a 3-band graphic equalizer with OLED spectrogram display  
+
+* **TI Launchpad Games** (Embedded C, Code Composer Studio)  
+  * Created multiple games (Subway Surfers, Multiplayer Rock Paper Scissors, Reflex Timer)  
+  * Utilized GPIO, ADC, SPI, UART for hardware interaction  
+
+Leadership and Extracurriculars
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Officer, Chinese American Society, Virginia Tech** (2023 - 2024)  
+  * Assisted in event setup, advertising, and video content creation  
